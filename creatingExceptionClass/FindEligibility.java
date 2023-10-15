@@ -7,7 +7,7 @@ public class FindEligibility {
 			System.out.println(num + " is Eligible");
 		}
 		else {
-			throw new InvalidAgeException("Not Eligible");
+			throw new InvalidAgeException("Not Eligible eeeeeeeeeeeeeeeeeeeeeeeeeee");
 		}
 	}
 
